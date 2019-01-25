@@ -1,0 +1,19 @@
+
+body{
+    margin: 0 auto;
+    background:#42f4df;
+}
+
+h1{
+    text-align:center;
+}
+
+.resultat{
+    padding: 2em;
+}
+img{
+    padding-left: 40em;
+}
+h2{
+    padding-left: 23em;
+}
